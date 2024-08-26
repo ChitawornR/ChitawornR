@@ -2,7 +2,7 @@
 # Hi 👋, I'm Chittaworn Khiri-eksathit
 ## About Me
 - 🌎 I'm based in Bangkok, Thailand
-- 📫 How to reach me **chittaworn.rr@gmail.com**
+- 📫 How to reach me **chittaworn.kh@gmail.com**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitawornr&show_icons=true&theme=radical&locale=en&layout=compact" alt="chitawornr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitawornr&show_icons=true&theme=radical&locale=en" alt="chitawornr" /></p>
