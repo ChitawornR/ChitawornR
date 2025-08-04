@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&vCenter=true&width=500&height=40&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
-# 👋 Hi, I'm Chittaworn Khiri-eksathit
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Chittaworn Khiri-eksathit
+
 
 ## 🌟 About Me
 - 🌍 I'm based in **Bangkok, Thailand**
