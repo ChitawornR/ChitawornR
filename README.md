@@ -4,8 +4,8 @@
 
 
 ## 🌟 About Me
-- 🌍 I'm based in **Bangkok, Thailand**
-- 📫 Contact me: **chittaworn.kh@gmail.com**
+- 🌍 I'm currently based in Bangkok, Thailand.**
+- 📫 You can contact me via email: **chittaworn.kh@gmail.com**
 ---
 
 ## 📊 GitHub Stats
