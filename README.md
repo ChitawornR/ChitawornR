@@ -4,7 +4,7 @@
 
 
 ## 🌟 About Me
-- 🌍 I'm currently based in Bangkok, Thailand.**
+- 🌍 I'm currently based in Bangkok, Thailand.
 - 📫 You can contact me via email: **chittaworn.kh@gmail.com**
 ---
 
