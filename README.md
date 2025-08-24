@@ -11,8 +11,10 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chitawornr&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=chitawornr&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chitawornr&show_icons=true&theme=radical&layout=compact" height="165"/> 
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=chitawornr&show_icons=true&theme=radical" height="165"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=chitawornr&show_icons=true&theme=radical&cache_seconds=1800"/>
+
 </p>
 
 ---
