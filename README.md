@@ -4,6 +4,10 @@
 
 
 ## 🌟 About Me
+- 🎓 4th-year IT student at Thai-Nichi Institute of Technology
+- 🧩 Interested in Software Development, Web Technologies
+- 🌱 Continuously learning and improving through hands-on projects
+- 🔍 Enthusiastic about problem-solving and working in collaborative environments
 - 🌍 I'm currently based in Bangkok, Thailand.
 - 📫 You can contact me via email: **chittaworn.kh@gmail.com**
 ---
